@@ -5,6 +5,9 @@
   3.Add spring-context dependency
   4.Run >mvn clean install
   
+  * For easy reading of the bean file - create src file src/main/resources and 
+    put all the applicationContext.xml there.
+  
   ```
 
 # Spring development process:
