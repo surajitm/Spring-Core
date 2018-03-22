@@ -16,6 +16,7 @@ public class App
     	Coach coach=context.getBean("mycoach",Coach.class);
     	//Use the bean to call method
     	coach.getDailyWorkout();
+    	System.out.println(coach.getDailyFortune());
     	//close the container
     	context.close();
     	

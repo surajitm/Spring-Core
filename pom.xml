@@ -17,8 +17,6 @@
 	</properties>
 
 	<dependencies>
-		
-		
 		<!-- https://mvnrepository.com/artifact/org.springframework/spring-context -->
 		<!-- https://mvnrepository.com/artifact/org.springframework/spring-context -->
 		<dependency>
@@ -26,10 +24,6 @@
 			<artifactId>spring-context</artifactId>
 			<version>4.3.14.RELEASE</version>
 		</dependency>
-
-
-
-	
 
 		<dependency>
 			<groupId>junit</groupId>
