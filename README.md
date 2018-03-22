@@ -15,6 +15,20 @@
  4.Use beans.
  5.close ApplicationContext.
  
- ``
+ ```
+ 
+ # Important question:
+ 
+   * What is Spring beans?
+   * What is Spring Container?
+   * What is IOC?
+   * What id dependency Injection?
+   * Explain XML configuration for Constructor injection and Setter injection?
+   * Explain bean scope?
+   * Explain Java configuration for constructor injection and Setter injection?
+   * How to inject leteral values?
+   
+   
+ 
 
 
