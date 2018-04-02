@@ -74,7 +74,8 @@
    * What is Spring Container?
    
    * What are the container available ?
-   
+   * Tell something about bean scope?
+      * [spring-bean-scope](https://github.com/surajitm/spring-core/wiki/Beans-Scope-and-Life-Cycle)
    * What is IOC?
    
    * What is dependency Injection?
