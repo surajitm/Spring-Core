@@ -70,15 +70,26 @@
      ```
      
    * What is Spring beans?
-   * What is Spring Container?
-   * What are the container available ?
-   * What is IOC?
-   * What id dependency Injection?
-   * Explain XML configuration for Constructor injection and Setter injection?
-   * Explain bean scope?
-   * Explain Java configuration for constructor injection and Setter injection?
-   * How to inject leteral values?
    
+   * What is Spring Container?
+   
+   * What are the container available ?
+   
+   * What is IOC?
+   
+   * What is dependency Injection?
+   
+   * Explain XML configuration for Constructor injection and Setter injection?
+       * [Spring XML configuration](https://github.com/surajitm/spring-core/wiki/XML-configuration-spring) 
+       
+   * What is Component Scan?
+       * [Component-Scan](https://github.com/surajitm/spring-core/wiki/Component-Scan-scan-using-XML-Configuration)
+       
+   * Explain Java configuration for constructor injection and Setter injection?
+       * [Spring JAVA configuration](https://github.com/surajitm/spring-core/wiki/Spring-configuration-using-only-java)
+       
+ ## Misllenious : 
+   * [Misllenious Question](https://github.com/surajitm/spring-core/wiki/Misllenious-Question)
    
  
 
