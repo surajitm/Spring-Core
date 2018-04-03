@@ -13,7 +13,5 @@ public class TestApp {
 	 search.search(new int[]{5,8,0,2,1,5});
 	//close the Application Context
 	  context.close();
-	   
-	   
 }
 }
