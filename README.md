@@ -88,6 +88,8 @@
        
    * Explain Java configuration for constructor injection and Setter injection?
        * [Spring JAVA configuration](https://github.com/surajitm/spring-core/wiki/Spring-configuration-using-only-java)
+   * How to load the properties file in spring?
+        * [Loding property file](https://github.com/surajitm/spring-core/wiki/Load-property-file-using-Spring-Config)
        
  ## Misllenious : 
    * [Misllenious Question](https://github.com/surajitm/spring-core/wiki/Misllenious-Question)
