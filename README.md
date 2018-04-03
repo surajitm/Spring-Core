@@ -79,6 +79,8 @@
    * What is IOC?
    
    * What is dependency Injection?
+   * What is Autowiring by name?
+   
    
    * Explain XML configuration for Constructor injection and Setter injection?
        * [Spring XML configuration](https://github.com/surajitm/spring-core/wiki/XML-configuration-spring) 
